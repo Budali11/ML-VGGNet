@@ -1,0 +1,4 @@
+venv/
+vgg_model/
+__pycache__
+vgg11_imagenet_best.pth
